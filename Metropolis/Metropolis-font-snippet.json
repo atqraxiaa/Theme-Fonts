@@ -1,1 +1,25 @@
-
+{
+    "spec": 1,
+    "name": "Metropolis",
+    "previewText": "Metropolis is a modern geometric sans serif typeface influenced by other popular geometric, minimalist sans-serif typefaces of the new millennium",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-RegularItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-RegularItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/atqraxiaa/Theme-Fonts/raw/main/Metropolis/Metropolis-SemiBold.ttf?raw=1"
+    }
+}
